@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+  <Script file="VwowDpsGirl.lua" />
+  <Frame name="VwowDpsGirl_Main" parent="UIParent" hidden="false">
+    <Scripts>
+      <OnLoad>
+        VwowDpsGirl_OnLoad()
+      </OnLoad>
+      <OnEvent>
+        VwowDpsGirl_OnEvent()
+      </OnEvent>
+    </Scripts>
+  </Frame>
+</Ui>

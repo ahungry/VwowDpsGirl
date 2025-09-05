@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VwowDpsGirl
+## Author: Matthew Carter
+## Version: 0.0.1
+## Notes: Show current dps with a friend.
+## SavedVariables: TDG_SavedConfig
+VwowDpsGirl.xml
